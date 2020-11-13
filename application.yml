@@ -1,8 +1,0 @@
-my:
-  Greeting: Bonjour du service de configuration
-  list:
-     Values: valeur1, valeur2, valeur3
-db:
-  Connection: connection-à-partir-du-service-Config
-  Host: 127.0.0.1
-  Port: 1200
